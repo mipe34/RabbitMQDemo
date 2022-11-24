@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DirectEmitLog": {
+      "commandName": "Project",
+      "commandLineArgs": "info Ahoj"
+    }
+  }
+}

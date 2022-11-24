@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DirectReceiveLog": {
+      "commandName": "Project",
+      "commandLineArgs": "info"
+    }
+  }
+}
